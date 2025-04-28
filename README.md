@@ -1,9 +1,9 @@
 # Mateus Panunci
-Estou cursando o 2° Ano de Ciência de Dados e Inteligência Artificial na Universidade Estadual de Londrina - UEL 📗.
+I am in the 2nd year of Data Science and Artificial Intelligence at the State University of Londrina - UEL 📗. 
 
-Comecei a estudar TI pois sempre fui apaixonado por videogame desde criança, quando tive como primeiro console um PS2, e, posteriormente, um PS4 🎮; além disso, sempre gostei de estudar matemática e estudar sobre tecnologia no geral. 
+I started studying IT because I have always been passionate about video games since I was a child, when my first console was a PS2, and later, a PS4 🎮; in addition, I have always enjoyed studying mathematics and learning about technology in general.
 
-### Habilidades 
+### Skills
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +13,7 @@ Comecei a estudar TI pois sempre fui apaixonado por videogame desde criança, qu
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-### Redes sociais 📱
+### Social Media 📱
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mateuspanunci/) 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateuspanunci@gmail.com)

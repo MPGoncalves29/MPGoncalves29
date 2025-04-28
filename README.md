@@ -1,5 +1,5 @@
 # Mateus Panunci
-Estou cursando o 2° Ano de Ciência de Dados e Inteligência Artificial na UEL 📗.
+Estou cursando o 2° Ano de Ciência de Dados e Inteligência Artificial na Universidade Estadual de Londrina - UEL 📗.
 
 Comecei a estudar TI pois sempre fui apaixonado por videogame desde criança, quando tive como primeiro console um PS2, e, posteriormente, um PS4 🎮; além disso, sempre gostei de estudar matemática e estudar sobre tecnologia no geral. 
 
